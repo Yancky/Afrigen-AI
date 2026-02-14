@@ -1,0 +1,7 @@
+{
+  "name": "Afrigen AI Ultimate",
+  "description": "The all-in-one AI platform for Africa and the world. Create content, automate business, and generate multimedia using advanced Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
